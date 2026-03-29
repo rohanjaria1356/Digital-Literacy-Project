@@ -49,8 +49,7 @@ The quiz contains **5 questions** designed to test basic digital literacy awaren
 ---
 
 ## Google Form Link
-*(Replace with your actual Google Form link)*
-🔗 [Digital Literacy Awareness Quiz](https://forms.gle/CHnadxepcSVq5HBx9)
+ [Digital Literacy Awareness Quiz](https://forms.gle/CHnadxepcSVq5HBx9)
 
 ## How to Create This Form
 1. Go to [forms.google.com](https://forms.google.com)
@@ -62,5 +61,6 @@ The quiz contains **5 questions** designed to test basic digital literacy awaren
 7. View responses in the linked **Google Sheet** (Responses tab → green Sheets icon)
 
 ## Screenshots
-- `google-form-quiz.png` — Screenshot of the form
+- `google-form-quiz1.png` — Screenshot of the form page-1
+- `google-form-quiz2.png` — Screenshot of the form page-2
 - `google-sheet-responses.png` — Screenshot of the linked response sheet
