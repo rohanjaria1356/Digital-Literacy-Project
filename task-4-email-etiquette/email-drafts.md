@@ -2,11 +2,11 @@
 
 ## Email 1: Requesting an Assignment Extension
 
-To: professor.sharma@vitbhopal.ac.in  
+To: professor@vitbhopal.ac.in  
 From: rohan.25bce10437@vitbhopal.ac.in  
 Subject: Request for Extension on Digital Literacy Assignment Submission  
 
-Respected Prof. Sharma,  
+Respected Professor,  
 
 I hope this email finds you well. I am writing to respectfully request a brief extension on the submission deadline for the Digital Literacy project assignment (CSE0001).
 
@@ -29,7 +29,7 @@ rohan.25bce10437@vitbhopal.ac.in
 
 ## Email 2: Expressing Interest in a Summer Internship
 
-To: hr.internships@techcorp.in  
+To: hr.internships@company.in  
 From: rohan.25bce10437@vitbhopal.ac.in  
 Subject: Application for Summer 2026 Internship — B.Tech CSE Student  
 
@@ -39,7 +39,7 @@ I am Rohan Jaria, a first-year B.Tech Computer Science & Engineering student at 
 
 Although I am in the early stages of my academic journey, I have been actively building my technical foundation through coursework in programming fundamentals, digital literacy, and data analysis. I am proficient in Python and have hands-on experience with platforms like GitHub and HackerRank. I am eager to gain real-world industry exposure and contribute to meaningful projects under the mentorship of your team.
 
-I believe that an internship at TechCorp would provide me with invaluable learning opportunities and allow me to apply my classroom knowledge to practical challenges. I am a quick learner, detail-oriented, and enthusiastic about technology.
+I believe that an internship at this company would provide me with invaluable learning opportunities and allow me to apply my classroom knowledge to practical challenges. I am a quick learner, detail-oriented, and enthusiastic about technology.
 
 I have attached my resume for your reference and would welcome the opportunity to discuss how I can contribute to your team. I am available for a virtual or in-person interview at your convenience.
 
