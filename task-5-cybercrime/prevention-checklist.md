@@ -1,4 +1,4 @@
-# 🛡️ Stay Safe Online — Prevention Checklist
+# Stay Safe Online — Prevention Checklist
 
 > A practical checklist of **10 actionable tips** for college students in India to protect themselves from cybercrime.
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 💳 Financial / UPI Safety
+## Financial / UPI Safety
 
 ### 6. Never Share Your UPI PIN, OTP, or CVV with Anyone
 - **No bank, payment app, or government agency will ever ask for your PIN or OTP** — this is a universal rule
